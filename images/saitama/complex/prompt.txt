@@ -1,1 +1,1 @@
-saitama, historical building, black background, no humans, facade, full_view, tiled_roof, hisashi_roof, Kirizuma_zukuri is gable roof, Hira_iri is non-gabled entrance, Shiro-shikkui is white plaster wall, Kannonbiraki is double casement window
+saitama, historical building, black background, no humans, facade, full_view, tiled_roof, hisashi_roof, Kirizuma_zukuri is gable roof, Hira_iri is non-gabled entrance, Kuro_shikkui is black plaster wall, Kannonbiraki is double casement window

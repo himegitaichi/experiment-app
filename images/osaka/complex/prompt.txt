@@ -1,1 +1,1 @@
-osaka, historical building, black background, no humans, facade, full_view, tiled_roof, hisashi_roof, Kirizuma_zukuri is gable roof, Hira_iri is non-gabled entrance, Shiro-shikkui is white plaster wall, Mushiko_mado is plaster-covered lattice window
+osaka, historical building, black background, no humans, facade, full_view, tiled_roof, hisashi_roof, Kirizuma_zukuri is gable roof, Hira_iri is non-gabled entrance, Mushiko_mado is plaster-covered lattice window, wooden_wall
