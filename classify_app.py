@@ -102,6 +102,10 @@ else:
     img_path = os.path.join(IMAGE_DIR, filename)
     try:
         image = Image.open(img_path)
+
+        # ★ ここでファイル名を表示します
+        st.write(f"**現在の画像ファイル名:** `{filename}`")
+
         st.image(image, use_container_width=True)
     except Exception as e:
         st.error(f"画像エラー: {filename} を読み込めませんでした。スキップします。")
