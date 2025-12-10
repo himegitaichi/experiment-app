@@ -97,14 +97,13 @@ else:
     progress = (current_idx + 1) / total_images
     st.progress(progress)
     st.caption(f"画像: {current_idx + 1} / {total_images}")
-
     # 画像の表示
     img_path = os.path.join(IMAGE_DIR, filename)
     try:
         image = Image.open(img_path)
 
-        # ★ ここでファイル名を表示します
-        st.write(f"**現在の画像ファイル名:** `{filename}`")
+        # ★ 追加: ファイル名を表示して、違う画像であることを確認できるようにする
+        st.caption(f"ファイル名: {filename}")
 
         st.image(image, use_container_width=True)
     except Exception as e:
